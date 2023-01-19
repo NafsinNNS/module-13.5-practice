@@ -1,0 +1,25 @@
+
+
+.icon {
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    position: relative;
+    bottom: 70px;
+    margin-bottom: -60px;
+    padding-bottom: -60px;
+    border: 5px solid white;
+    border-radius: 50px;
+    background: white;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.small-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    filter: invert(35%) sepia(63%) saturate(536%) hue-rotate(153deg) brightness(96%) contrast(94%);
+}
