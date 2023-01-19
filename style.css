@@ -23,3 +23,10 @@
     margin-right: 20px;
     filter: invert(35%) sepia(63%) saturate(536%) hue-rotate(153deg) brightness(96%) contrast(94%);
 }
+.btn-custom{
+    background: #8D3DAF;
+    color: white;
+}
+input{
+    outline: none;
+}
